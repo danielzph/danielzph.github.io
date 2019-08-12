@@ -3,7 +3,7 @@ title: 张鹏辉
 subtitle: 个人站
 description: 欢迎来到我的个人站，本人小白，希望大家指导。
 # 头像里面的标题
-avatarTitle: danielzph
+avatarTitle: Daniel
 # 头像里面的描述
 avatarDesc: ros / python
 url: "https://danielzph.github.io"
@@ -16,11 +16,11 @@ comment:
 
 # Social
 social:
-    weibo: ferriswheel好棒 
+    #weibo: 5366874726 
     github: danielzph
     # zhihu: panpanleopard
     # juejin: xxx
-    # jianshu: 2ada30d8d0f7
+    #jianshu: 2ada30d8d0f7
     # twitter: 
     mail: Daniel960915@163.com
 
@@ -28,13 +28,13 @@ social:
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 #baidu:
-   # id: xxxx  
+ #   id: xxxx  
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 #ga:
-#    id: xxxx  
-#   host: auto  
+ #   id: xxxx  
+  #  host: auto  
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
