@@ -72,6 +72,6 @@ R进制转化成十进制：各位数字与它的权相乘，其积相加，例�
 
 <br>
 
-转载请注明：[张鹏辉的博客](http://danielzph.github.io) >> [learningrecord2](https://danielzph.github.io/2019/08/cpplearningprocess1/)
+转载请注明：[张鹏辉的博客](http://danielzph.github.io) >> [cpplearningprocess](https://danielzph.github.io/2019/08/cpplearningprocess1/)
 
 
