@@ -23,3 +23,11 @@ tags: Ubuntu
 ![](/images/posts/guide_item/3.png)
 
 ### 保存设置，重启电脑
+
+
+
+
+<br>
+
+转载请注明：[张鹏辉的博客](http://danielzph.github.io) >> [guide_item](https://danielzph.github.io/2019/09/guide_item/)
+
