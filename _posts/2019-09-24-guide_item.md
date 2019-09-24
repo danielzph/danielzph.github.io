@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用EasyBCD设置开机引导项
-date: 2019-08-31
+date: 2019-09-24
 tags: Ubuntu
 ---
 
