@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 编译minisam时遇到的问题及解决
+title: minisam的编译及可能遇到的问题与解决
 date: 2019-09-28
 tags: minisam
 ---
