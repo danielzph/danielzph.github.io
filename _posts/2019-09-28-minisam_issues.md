@@ -18,17 +18,17 @@ tags: minisam
 
 ### 2，安装minisam
 
-$ git clone https://github.com/dongjing3309/minisam.git
+> $ git clone https://github.com/dongjing3309/minisam.git
 
-$ mkdir build 
+> $ mkdir build 
 
-$ cd build
+> $ cd build
 
-$ cmake ..
+> $ cmake ..
 
-$ make
+> $ make
 
-$ make check #optional, run unit tests
+> $ make check #optional, run unit tests
 
 ## 二，我在安装编译时遇到的问题和解决办法
 ![](/images/posts/minisam_cmake_issues/1.png)
