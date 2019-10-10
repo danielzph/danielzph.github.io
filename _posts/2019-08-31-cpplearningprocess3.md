@@ -35,6 +35,9 @@ cin >> a >> b;
 ![](/images/posts/cpp_learning_process/15.png)
 例子：
 
+
+```c++
+
 #include <iostream>
 
 using namespace std;
@@ -69,6 +72,8 @@ int main() {
 
      return 0;
 }
+
+```
 
 #### 3,循环结构
 
