@@ -1,6 +1,6 @@
 ---
 layout: post
-title: c++语言学习笔记4
+title: c++类与对象
 date: 2019-10-10
 tags: c++语言学习笔记
 ---
