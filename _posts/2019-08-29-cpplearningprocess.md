@@ -1,6 +1,6 @@
 ---
 layout: post
-title: c++语言学习笔记1
+title: c++语言绪论
 date: 2019-08-29
 tags: c++语言学习笔记
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: c++语言学习笔记3
+title: c++简单程序设计(二)
 date: 2019-08-31
 tags: c++语言学习笔记
 ---
@@ -78,9 +78,18 @@ int main() {
 #### 3,循环结构
 
 
+(1) while语句   
+语法形式： while(表达式)语句   
+执行顺序： 先判断表达式的值，若为 true 时，执行语句。   
 
 
 
+
+
+
+<br>
+
+转载请注明：[张鹏辉的博客](http://danielzph.github.io) >> [c++简单程序设计(二)](https://danielzph.github.io/2019/08/cpplearningprocess3/)
 
 
 

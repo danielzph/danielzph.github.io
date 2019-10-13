@@ -1,6 +1,6 @@
 ---
 layout: post
-title: c++语言学习笔记2
+title: c++简单程序设计(一)
 date: 2019-08-30
 tags: c++语言学习笔记
 ---
@@ -177,7 +177,7 @@ const_cast、dynamic_cast、reinterpret_cast、static_cast
 
 <br>
 
-转载请注明：[张鹏辉的博客](http://danielzph.github.io) >> [cpplearningprocess2](https://danielzph.github.io/2019/08/cpplearningprocess2/)
+转载请注明：[张鹏辉的博客](http://danielzph.github.io) >> [c++简单程序设计(一)](https://danielzph.github.io/2019/08/cpplearningprocess2/)
 
 
 
