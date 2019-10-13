@@ -21,7 +21,7 @@ tags: 工具
   
 ![](/images/posts/minisam/6.png)
   
-使用快捷键‘ctrl+a|t+m’，进行截图，之后软件便会自动识别公式，我们只需将下方代码复制即可。
+使用快捷键'ctrl+a/t+m'，进行截图，之后软件便会自动识别公式，我们只需将下方代码复制即可。
 
 ![](/images/posts/minisam/7.png)
   
