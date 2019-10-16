@@ -60,9 +60,9 @@ class 类名称
 
 **表示该类的某一特定实体**
 
-声明形式： ` Clock myCLOCK ` (类名 对象名)
+声明形式：  *Clock myCLOCK*  (类名 对象名)
 
-访问数据成员的一般形式： ` myClock.showTime()` (对象名.数据成员名)
+访问数据成员的一般形式：  *myClock.showTime()* (对象名.数据成员名)
 
 #### 2.3 类的成员函数
 
@@ -267,4 +267,4 @@ int main(){
 
 <br>
 
-转载请注明：[张鹏辉的博客](http://danielzph.github.io) >> [cpplearningprocess2](https://danielzph.github.io/2019/10/cpplearningprocess4/)
+转载请注明：[张鹏辉的博客](http://danielzph.github.io) >> [c++ 类与对象](https://danielzph.github.io/2019/10/cpplearningprocess4/)
