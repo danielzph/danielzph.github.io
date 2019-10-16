@@ -60,9 +60,9 @@ class 类名称
 
 **表示该类的某一特定实体**
 
-声明形式：  *Clock myCLOCK*  (类名 对象名)
+声明形式：  `Clock myCLOCK`  (类名 对象名)
 
-访问数据成员的一般形式：  *myClock.showTime()* (对象名.数据成员名)
+访问数据成员的一般形式：  `myClock.showTime()` (对象名.数据成员名)
 
 #### 2.3 类的成员函数
 
