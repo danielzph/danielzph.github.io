@@ -24,7 +24,15 @@ tags: ground_truth_estimation_2d
 `size 8x6` 表示棋盘格内部角点数，即6行，每行8个角点。  
 `square 0.024` 表示棋盘格边长，单位为米。   
 
-标定程序启动成功后，将标定靶放置在摄像头视野范围内，左右、上下、前后、倾斜运动。直到“CALIBRATE”按钮变色，表示参数采集完成，点击“CALIBRATE”按钮，开始计算标定参数，此时需要等待一段时间，成功后，点击“SAVE”按钮，完成标定。
+启动标定程序之后会得到如下的界面：
+
+![](/images/posts/ground_truth_estimation_2d/1.png)
+
+标定程序启动成功后，将标定靶放置在摄像头视野范围内，左右、上下、前后、倾斜运动。直到“CALIBRATE”按钮变色，表示参数采集完成，如图。
+
+![](/images/posts/ground_truth_estimation_2d/2.png)
+
+点击“CALIBRATE”按钮，开始计算标定参数，此时需要等待一段时间，成功后，点击“SAVE”按钮，完成标定。
 
 在/tmp/calibrationdate.tar.gz压缩包解压后，找到ost.yaml文件，将其复制出重新命名即可使用。
 
