@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 总结各类学习文档链接（持续更新...）
-date: 2019-11-15
+date: 2019-11-20
 tags: summary
 ---
 
@@ -40,7 +40,7 @@ c++学习视频。[点击此处](http://www.xuetangx.com/courses/course-v1:Tsing
 
 7. ......
 
-## 二维轨迹真值获取
+## 轨迹真值获取
 
 1. 相机标定。[点击此处](https://danielzph.github.io/2019/11/QRcode_calbration/)
 
@@ -48,7 +48,9 @@ c++学习视频。[点击此处](http://www.xuetangx.com/courses/course-v1:Tsing
 
 3. 棋盘格、aruco码、charuco码的区别，空间位姿获取原理及精度计算。[待发布]()
 
-4. ......
+4. 二维码识别相关论文及资源[点击此处](https://danielzph.github.io/2019/11/related_papers/)
+
+5. ......
 
 
 
