@@ -10,7 +10,7 @@ tags: 二维码识别
 ### 三个摄像头应用场景案例
 
 1. **通过演示进行运动规划，以处理装配过程中的复杂运动。** 案例视频[地址](https://youtu.be/B75rBqCLYRQ)  
-论文地址[](https://arxiv.org/pdf/1910.01821.pdf)
+论文地址[地址](https://arxiv.org/pdf/1910.01821.pdf)
 
 
 ### 使用二维码marker进行位置识别定位
